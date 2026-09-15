@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(133, 127, 127);
+    font-family: Helvetica bold, Arial, sans-serif;
+    font-size: 30px;
+}
+main {
+    padding: 0px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.producto{
+    text-align: center;
+    width: 320px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(107, 88, 62);
+    box-shadow: 0 4px 10px;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 248);
+    font-size: 60px;
+}
